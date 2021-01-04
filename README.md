@@ -9,7 +9,7 @@
     
   </a>
 
-  <h3 align="center">CoronAI/h3>
+  <h3 align="center">CoronAI</h3>
 
   <p align="center">
    
