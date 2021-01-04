@@ -13,11 +13,8 @@
 
   <p align="center">
    
-    <br />
-    <br />
-    <br />
-    <a href="https://fitd-demo.s3-us-west-2.amazonaws.com/index.html">View Demo</a>
-    ·
+   
+    
   </p>
 </p>
 
